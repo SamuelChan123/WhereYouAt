@@ -1,4 +1,4 @@
-# Orange Final Project: wy@
+# Wy@ iOS App
 Group members: Sam Chan, Jane Li, Akshara Anand, Neha Kota, Rachel Ma
 
 ## Description 
